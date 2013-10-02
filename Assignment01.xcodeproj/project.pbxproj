@@ -23,6 +23,13 @@
 		B99E0E1017FCB00100B35D4B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E0F17FCB00100B35D4B /* SecondViewController.m */; };
 		B99E0E1217FCB00100B35D4B /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = B99E0E1117FCB00100B35D4B /* second.png */; };
 		B99E0E1417FCB00100B35D4B /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B99E0E1317FCB00100B35D4B /* second@2x.png */; };
+		B99E0E1F17FCB13E00B35D4B /* LineView.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E1C17FCB13E00B35D4B /* LineView.m */; };
+		B99E0E2017FCB13E00B35D4B /* LineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E1E17FCB13E00B35D4B /* LineViewController.m */; };
+		B99E0E2317FCB15B00B35D4B /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E2217FCB15B00B35D4B /* MainViewController.m */; };
+		B99E0E2817FCB18800B35D4B /* CircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E2517FCB18800B35D4B /* CircleView.m */; };
+		B99E0E2917FCB18800B35D4B /* CircleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E2717FCB18800B35D4B /* CircleViewController.m */; };
+		B99E0E2C17FCC03800B35D4B /* BresenhamImage.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E2B17FCC03800B35D4B /* BresenhamImage.m */; };
+		B99E0E2F17FCC0A700B35D4B /* myImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B99E0E2E17FCC0A700B35D4B /* myImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +55,20 @@
 		B99E0E0F17FCB00100B35D4B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		B99E0E1117FCB00100B35D4B /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		B99E0E1317FCB00100B35D4B /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		B99E0E1B17FCB13E00B35D4B /* LineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineView.h; sourceTree = "<group>"; };
+		B99E0E1C17FCB13E00B35D4B /* LineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LineView.m; sourceTree = "<group>"; };
+		B99E0E1D17FCB13E00B35D4B /* LineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineViewController.h; sourceTree = "<group>"; };
+		B99E0E1E17FCB13E00B35D4B /* LineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LineViewController.m; sourceTree = "<group>"; };
+		B99E0E2117FCB15B00B35D4B /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		B99E0E2217FCB15B00B35D4B /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		B99E0E2417FCB18800B35D4B /* CircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleView.h; sourceTree = "<group>"; };
+		B99E0E2517FCB18800B35D4B /* CircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleView.m; sourceTree = "<group>"; };
+		B99E0E2617FCB18800B35D4B /* CircleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleViewController.h; sourceTree = "<group>"; };
+		B99E0E2717FCB18800B35D4B /* CircleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleViewController.m; sourceTree = "<group>"; };
+		B99E0E2A17FCC03800B35D4B /* BresenhamImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BresenhamImage.h; sourceTree = "<group>"; };
+		B99E0E2B17FCC03800B35D4B /* BresenhamImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BresenhamImage.m; sourceTree = "<group>"; };
+		B99E0E2D17FCC0A700B35D4B /* myImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myImageView.h; sourceTree = "<group>"; };
+		B99E0E2E17FCC0A700B35D4B /* myImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +115,9 @@
 		B99E0DF217FCB00000B35D4B /* Assignment01 */ = {
 			isa = PBXGroup;
 			children = (
+				B99E0E2117FCB15B00B35D4B /* MainViewController.h */,
+				B99E0E2217FCB15B00B35D4B /* MainViewController.m */,
+				B99E0E1A17FCB0D900B35D4B /* Other implementations */,
 				B99E0DFB17FCB00000B35D4B /* AppDelegate.h */,
 				B99E0DFC17FCB00000B35D4B /* AppDelegate.m */,
 				B99E0E0417FCB00000B35D4B /* MainStoryboard.storyboard */,
@@ -122,6 +146,25 @@
 				B99E0E0217FCB00000B35D4B /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B99E0E1A17FCB0D900B35D4B /* Other implementations */ = {
+			isa = PBXGroup;
+			children = (
+				B99E0E2D17FCC0A700B35D4B /* myImageView.h */,
+				B99E0E2E17FCC0A700B35D4B /* myImageView.m */,
+				B99E0E2A17FCC03800B35D4B /* BresenhamImage.h */,
+				B99E0E2B17FCC03800B35D4B /* BresenhamImage.m */,
+				B99E0E2417FCB18800B35D4B /* CircleView.h */,
+				B99E0E2517FCB18800B35D4B /* CircleView.m */,
+				B99E0E2617FCB18800B35D4B /* CircleViewController.h */,
+				B99E0E2717FCB18800B35D4B /* CircleViewController.m */,
+				B99E0E1B17FCB13E00B35D4B /* LineView.h */,
+				B99E0E1C17FCB13E00B35D4B /* LineView.m */,
+				B99E0E1D17FCB13E00B35D4B /* LineViewController.h */,
+				B99E0E1E17FCB13E00B35D4B /* LineViewController.m */,
+			);
+			name = "Other implementations";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,6 +241,13 @@
 				B99E0DFD17FCB00000B35D4B /* AppDelegate.m in Sources */,
 				B99E0E0917FCB00000B35D4B /* FirstViewController.m in Sources */,
 				B99E0E1017FCB00100B35D4B /* SecondViewController.m in Sources */,
+				B99E0E1F17FCB13E00B35D4B /* LineView.m in Sources */,
+				B99E0E2017FCB13E00B35D4B /* LineViewController.m in Sources */,
+				B99E0E2317FCB15B00B35D4B /* MainViewController.m in Sources */,
+				B99E0E2817FCB18800B35D4B /* CircleView.m in Sources */,
+				B99E0E2917FCB18800B35D4B /* CircleViewController.m in Sources */,
+				B99E0E2C17FCC03800B35D4B /* BresenhamImage.m in Sources */,
+				B99E0E2F17FCC0A700B35D4B /* myImageView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
