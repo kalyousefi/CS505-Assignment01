@@ -118,6 +118,14 @@
 				B99E0E2117FCB15B00B35D4B /* MainViewController.h */,
 				B99E0E2217FCB15B00B35D4B /* MainViewController.m */,
 				B99E0E1A17FCB0D900B35D4B /* Other implementations */,
+				B99E0DF317FCB00000B35D4B /* Supporting Files */,
+			);
+			path = Assignment01;
+			sourceTree = "<group>";
+		};
+		B99E0DF317FCB00000B35D4B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
 				B99E0DFB17FCB00000B35D4B /* AppDelegate.h */,
 				B99E0DFC17FCB00000B35D4B /* AppDelegate.m */,
 				B99E0E0417FCB00000B35D4B /* MainStoryboard.storyboard */,
@@ -129,14 +137,6 @@
 				B99E0E0F17FCB00100B35D4B /* SecondViewController.m */,
 				B99E0E1117FCB00100B35D4B /* second.png */,
 				B99E0E1317FCB00100B35D4B /* second@2x.png */,
-				B99E0DF317FCB00000B35D4B /* Supporting Files */,
-			);
-			path = Assignment01;
-			sourceTree = "<group>";
-		};
-		B99E0DF317FCB00000B35D4B /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
 				B99E0DF417FCB00000B35D4B /* Assignment01-Info.plist */,
 				B99E0DF517FCB00000B35D4B /* InfoPlist.strings */,
 				B99E0DF817FCB00000B35D4B /* main.m */,
